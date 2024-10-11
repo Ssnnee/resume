@@ -10,3 +10,9 @@ pdflatex main.tex
 ```
 
 It should generate a `main.pdf` file which you can view.
+
+#### Todos
+- [ ] Add more languages
+- [ ] Improve the styling
+
+
